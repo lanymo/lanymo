@@ -29,8 +29,7 @@ src = https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&l
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanymo&show_icons=true&theme=vue)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonghha04)](https://solved.ac/profile/jeonghha04)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonghha04)](https://solved.ac/jeonghha04)
 
 <br>
 
