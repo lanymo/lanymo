@@ -4,13 +4,13 @@
 <div align=center> <h1>🙆‍♀️ About me </h1></div>
 <br>
 <div align=center>
-Welcome to my Github!<br>
-- I'm studying CS at Sogang Univ.
+Welcome to my Github! <br>
+I'm studying CS at Sogang Univ. <br><br>
 <div align=center>
 <a  href="https://velog.io/@hyolagi/posts">  <img  src="https://img.shields.io/badge/velog-11B48A?style=for-the-badge&logo=velog&logoColor=white"/>  </a>
 </div>
 
-
+<br>
 <div align=center> <h1>📚 Tech Stack </h1></div>
 <br>
 
@@ -24,17 +24,10 @@ Welcome to my Github!<br>
 <img
 src = https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white>
 
-
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanymo&show_icons=true&theme=vue)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jeonghha04)](https://solved.ac/jeonghha04)
-
-<br>
-
 <div align=center> <h1> 
-🛠 Tools </h1></div>
+🛠 Tools </h1></div><br>
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
@@ -45,6 +38,11 @@ src = https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&l
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />
 </div>
 
+<br><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanymo&show_icons=true&theme=vue)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jeonghha04)](https://solved.ac/jeonghha04)
 
 
 
