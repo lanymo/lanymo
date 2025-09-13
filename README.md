@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=lanymo%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFE4E1&height=300&section=header&text=lanymo%20github&fontSize=90)
 
 
 <div align=center> <h1>🙆‍♀️ About me </h1></div>
