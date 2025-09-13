@@ -25,7 +25,7 @@ Welcome to my Github!
 src = https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white>
 
 
-<br>
+<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanymo&show_icons=true&theme=vue)
 
