@@ -1,6 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=lanymo%20github&fontSize=90)
 
 
+<div align=center> <h1>🙆‍♀️ About me </h1></div>
+Welcome to my Github!
+
+- I'm studying CS at Sogang Univ.
+<div align=center>
+<a  href="https://velog.io/@hyolagi/posts">  <img  src="https://img.shields.io/badge/velog-11B48A?style=for-the-badge&logo=velog&logoColor=white"/>  </a>
+</div>
+
 
 <div align=center> <h1>📚 Tech Stack </h1></div>
 
