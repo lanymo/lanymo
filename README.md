@@ -25,6 +25,7 @@ I'm studying CS at Sogang Univ. <br><br>
 src = https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white>
 <!--img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"-->
 <!--img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"-->
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 
 <br><br>
 
